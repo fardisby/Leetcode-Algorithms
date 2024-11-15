@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35424.110 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode Algorithms", "Leetcode Algorithms\Leetcode Algorithms.csproj", "{B57E3633-C7FF-4BDA-80A5-241247E68F05}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetcodeAlgorithms", "Leetcode Algorithms\LeetcodeAlgorithms.csproj", "{B57E3633-C7FF-4BDA-80A5-241247E68F05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
