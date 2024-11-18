@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Leetcode_Algorithms
+namespace Leetcode_Algorithms.TwoPointer
 {
     public class ContainerWithMostWater
     {
@@ -42,7 +42,7 @@ namespace Leetcode_Algorithms
                         right--; // Move the right pointer to the left
                     }
                 }
-               
+
             }
 
             return maxArea;  // Return the maximum area found

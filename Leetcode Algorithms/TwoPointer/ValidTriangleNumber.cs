@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Leetcode_Algorithms
+namespace Leetcode_Algorithms.TwoPointer
 {
     public class ValidTriangleNumber
     {
